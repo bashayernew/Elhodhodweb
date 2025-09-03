@@ -1,0 +1,24 @@
+﻿# dependencies
+node_modules/
+
+# builds & caches
+dist/
+build/
+.out/
+.next/
+.vite/
+.cache/
+coverage/
+logs/
+.parcel-cache/
+.expo/
+.turbo/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+*.log
+
+# env files
+.env
+.env.*
