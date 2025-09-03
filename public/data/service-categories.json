@@ -1,0 +1,250 @@
+{
+  "categories": [
+    {
+      "id": "home_services",
+      "name": {
+        "en": "Home Services",
+        "ar": "خدمات المنزل"
+      },
+      "subcategories": [
+        {
+          "id": "cleaning",
+          "name": {
+            "en": "Cleaning",
+            "ar": "تنظيف"
+          }
+        },
+        {
+          "id": "maintenance",
+          "name": {
+            "en": "Maintenance",
+            "ar": "صيانة"
+          }
+        },
+        {
+          "id": "renovation",
+          "name": {
+            "en": "Renovation",
+            "ar": "تجديد"
+          }
+        },
+        {
+          "id": "pest_control",
+          "name": {
+            "en": "Pest Control",
+            "ar": "مكافحة الحشرات"
+          }
+        }
+      ]
+    },
+    {
+      "id": "construction",
+      "name": { "en": "Construction", "ar": "إنشاءات" },
+      "subcategories": [
+        { "id": "civil", "name": { "en": "Civil Works", "ar": "أعمال مدنية" } },
+        { "id": "masonry", "name": { "en": "Masonry", "ar": "بناء" } },
+        { "id": "concrete", "name": { "en": "Concrete", "ar": "خرسانة" } },
+        { "id": "tiling", "name": { "en": "Tiling", "ar": "تركيب بلاط" } },
+        { "id": "waterproofing", "name": { "en": "Waterproofing", "ar": "عزل" } },
+        { "id": "roofing", "name": { "en": "Roofing", "ar": "أسقف" } }
+      ]
+    },
+    {
+      "id": "mep",
+      "name": { "en": "MEP", "ar": "كهروميكانيك" },
+      "subcategories": [
+        { "id": "mechanical", "name": { "en": "Mechanical", "ar": "ميكانيكا" } },
+        { "id": "electrical", "name": { "en": "Electrical", "ar": "كهرباء" } },
+        { "id": "plumbing", "name": { "en": "Plumbing", "ar": "سباكة" } },
+        { "id": "hvac", "name": { "en": "HVAC", "ar": "تكييف" } }
+      ]
+    },
+    {
+      "id": "electrical",
+      "name": {
+        "en": "Electrical",
+        "ar": "كهربائي"
+      },
+      "subcategories": [
+        {
+          "id": "installation",
+          "name": {
+            "en": "Installation",
+            "ar": "تركيب"
+          }
+        },
+        {
+          "id": "repair",
+          "name": {
+            "en": "Repair",
+            "ar": "إصلاح"
+          }
+        },
+        {
+          "id": "maintenance",
+          "name": {
+            "en": "Maintenance",
+            "ar": "صيانة"
+          }
+        }
+      ]
+    },
+    {
+      "id": "plumbing",
+      "name": {
+        "en": "Plumbing",
+        "ar": "سباكة"
+      },
+      "subcategories": [
+        {
+          "id": "installation",
+          "name": {
+            "en": "Installation",
+            "ar": "تركيب"
+          }
+        },
+        {
+          "id": "repair",
+          "name": {
+            "en": "Repair",
+            "ar": "إصلاح"
+          }
+        },
+        {
+          "id": "maintenance",
+          "name": {
+            "en": "Maintenance",
+            "ar": "صيانة"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hvac",
+      "name": {
+        "en": "HVAC",
+        "ar": "تكييف وتهوية"
+      },
+      "subcategories": [
+        {
+          "id": "installation",
+          "name": {
+            "en": "Installation",
+            "ar": "تركيب"
+          }
+        },
+        {
+          "id": "repair",
+          "name": {
+            "en": "Repair",
+            "ar": "إصلاح"
+          }
+        },
+        {
+          "id": "maintenance",
+          "name": {
+            "en": "Maintenance",
+            "ar": "صيانة"
+          }
+        }
+      ]
+    },
+    {
+      "id": "landscaping",
+      "name": {
+        "en": "Landscaping",
+        "ar": "تنسيق الحدائق"
+      },
+      "subcategories": [
+        {
+          "id": "design",
+          "name": {
+            "en": "Design",
+            "ar": "تصميم"
+          }
+        },
+        {
+          "id": "installation",
+          "name": {
+            "en": "Installation",
+            "ar": "تركيب"
+          }
+        },
+        {
+          "id": "maintenance",
+          "name": {
+            "en": "Maintenance",
+            "ar": "صيانة"
+          }
+        }
+      ]
+    },
+    {
+      "id": "decor",
+      "name": { "en": "Décor & Interiors", "ar": "ديكور وتشطيبات" },
+      "subcategories": [
+        { "id": "gypsum", "name": { "en": "Gypsum & False Ceiling", "ar": "جبس وأسقف مستعارة" } },
+        { "id": "painting", "name": { "en": "Painting", "ar": "دهان" } },
+        { "id": "wallpaper", "name": { "en": "Wallpaper", "ar": "ورق جدران" } },
+        { "id": "flooring", "name": { "en": "Flooring", "ar": "أرضيات" } }
+      ]
+    },
+    {
+      "id": "moving",
+      "name": { "en": "Moving & Relocation", "ar": "نقل وانتقال" },
+      "subcategories": [
+        { "id": "local_moving", "name": { "en": "Local Moving", "ar": "نقل محلي" } },
+        { "id": "packing", "name": { "en": "Packing", "ar": "تغليف" } },
+        { "id": "furniture", "name": { "en": "Furniture Assembly", "ar": "تركيب أثاث" } }
+      ]
+    },
+    {
+      "id": "equipment",
+      "name": { "en": "Equipment Rental", "ar": "تأجير معدات" },
+      "subcategories": [
+        { "id": "scaffolding", "name": { "en": "Scaffolding", "ar": "سقالات" } },
+        { "id": "lifts", "name": { "en": "Lifts & Cranes", "ar": "رافعات" } },
+        { "id": "generators", "name": { "en": "Generators", "ar": "مولدات" } }
+      ]
+    },
+    {
+      "id": "security",
+      "name": {
+        "en": "Security",
+        "ar": "أمن"
+      },
+      "subcategories": [
+        {
+          "id": "cctv",
+          "name": {
+            "en": "CCTV Installation",
+            "ar": "تركيب كاميرات مراقبة"
+          }
+        },
+        {
+          "id": "alarm_systems",
+          "name": {
+            "en": "Alarm Systems",
+            "ar": "أنظمة إنذار"
+          }
+        },
+        {
+          "id": "access_control",
+          "name": {
+            "en": "Access Control",
+            "ar": "التحكم في الوصول"
+          }
+        }
+      ]
+    },
+    {
+      "id": "handyman",
+      "name": { "en": "Handyman", "ar": "سباك وكهربائي عام" },
+      "subcategories": [
+        { "id": "general", "name": { "en": "General Repairs", "ar": "تصليحات عامة" } },
+        { "id": "carpentry", "name": { "en": "Carpentry", "ar": "نجارة" } },
+        { "id": "glass_aluminum", "name": { "en": "Glass & Aluminum", "ar": "ألمنيوم وزجاج" } }
+      ]
+    }
+  ]
+}

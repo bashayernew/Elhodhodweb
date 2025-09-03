@@ -1,0 +1,214 @@
+{
+  "categories": [
+    {
+      "id": "tools",
+      "name": {
+        "en": "Tools",
+        "ar": "أدوات"
+      },
+      "subcategories": [
+        {
+          "id": "hand_tools",
+          "name": {
+            "en": "Hand Tools",
+            "ar": "أدوات يدوية"
+          }
+        },
+        {
+          "id": "power_tools",
+          "name": {
+            "en": "Power Tools",
+            "ar": "أدوات كهربائية"
+          }
+        },
+        {
+          "id": "measuring_tools",
+          "name": {
+            "en": "Measuring Tools",
+            "ar": "أدوات قياس"
+          }
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": {
+        "en": "Materials",
+        "ar": "مواد"
+      },
+      "subcategories": [
+        {
+          "id": "cement",
+          "name": {
+            "en": "Cement & Concrete",
+            "ar": "أسمنت وخرسانة"
+          }
+        },
+        {
+          "id": "steel",
+          "name": {
+            "en": "Steel & Metal",
+            "ar": "حديد ومعادن"
+          }
+        },
+        {
+          "id": "wood",
+          "name": {
+            "en": "Wood & Timber",
+            "ar": "خشب وأخشاب"
+          }
+        }
+      ]
+    },
+    {
+      "id": "electrical",
+      "name": {
+        "en": "Electrical",
+        "ar": "كهربائي"
+      },
+      "subcategories": [
+        {
+          "id": "wires_cables",
+          "name": {
+            "en": "Wires & Cables",
+            "ar": "أسلاك وكابلات"
+          }
+        },
+        {
+          "id": "switches_outlets",
+          "name": {
+            "en": "Switches & Outlets",
+            "ar": "مفاتيح ومقابس"
+          }
+        },
+        {
+          "id": "lighting",
+          "name": {
+            "en": "Lighting",
+            "ar": "إضاءة"
+          }
+        }
+      ]
+    },
+    {
+      "id": "plumbing",
+      "name": {
+        "en": "Plumbing",
+        "ar": "سباكة"
+      },
+      "subcategories": [
+        {
+          "id": "pipes_fittings",
+          "name": {
+            "en": "Pipes & Fittings",
+            "ar": "أنابيب وملحقات"
+          }
+        },
+        {
+          "id": "valves",
+          "name": {
+            "en": "Valves",
+            "ar": "صمامات"
+          }
+        },
+        {
+          "id": "fixtures",
+          "name": {
+            "en": "Fixtures",
+            "ar": "أدوات صحية"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hvac",
+      "name": {
+        "en": "HVAC",
+        "ar": "تكييف وتهوية"
+      },
+      "subcategories": [
+        {
+          "id": "air_conditioners",
+          "name": {
+            "en": "Air Conditioners",
+            "ar": "مكيفات هواء"
+          }
+        },
+        {
+          "id": "fans",
+          "name": {
+            "en": "Fans & Ventilation",
+            "ar": "مراوح وتهوية"
+          }
+        },
+        {
+          "id": "ducts",
+          "name": {
+            "en": "Ducts & Vents",
+            "ar": "قنوات وفتحات"
+          }
+        }
+      ]
+    },
+    {
+      "id": "safety",
+      "name": {
+        "en": "Safety",
+        "ar": "سلامة"
+      },
+      "subcategories": [
+        {
+          "id": "ppe",
+          "name": {
+            "en": "PPE Equipment",
+            "ar": "معدات الحماية الشخصية"
+          }
+        },
+        {
+          "id": "fire_safety",
+          "name": {
+            "en": "Fire Safety",
+            "ar": "السلامة من الحريق"
+          }
+        },
+        {
+          "id": "signage",
+          "name": {
+            "en": "Safety Signage",
+            "ar": "علامات السلامة"
+          }
+        }
+      ]
+    },
+    {
+      "id": "furniture_decor",
+      "name": {
+        "en": "Furniture & Décor",
+        "ar": "أثاث وديكور"
+      },
+      "subcategories": [
+        {
+          "id": "office_furniture",
+          "name": {
+            "en": "Office Furniture",
+            "ar": "أثاث مكتبي"
+          }
+        },
+        {
+          "id": "storage",
+          "name": {
+            "en": "Storage Solutions",
+            "ar": "حلول التخزين"
+          }
+        },
+        {
+          "id": "decorative_items",
+          "name": {
+            "en": "Decorative Items",
+            "ar": "عناصر ديكور"
+          }
+        }
+      ]
+    }
+  ]
+}
